@@ -18,6 +18,9 @@ SOLUTIONS  (all ofthese create sas tables includin procs freq report and tabulat
     8 proc tabulate
     9 data step then transpose
       Kurt Bresmer
+      
+https://tinyurl.com/cukhvaxe
+https://github.com/rogerjdeangelis/utl-transpose-pivot-with-just-classification-varaiables-and-no-value-variable
 
 Kurt Bresmer
 https://communities.sas.com/t5/user/viewprofilepage/user-id/11562
