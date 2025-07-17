@@ -21,8 +21,8 @@ Transpose pivot with just classification varaiables and no value variable
         9 data step then transpose
           Kurt Bresmer
 
-          https://tinyurl.com/cukhvaxe
-          https://github.com/rogerjdeangelis/utl-transpose-pivot-with-just-classification-varaiables-and-no-value-variable
+    https://tinyurl.com/cukhvaxe
+    https://github.com/rogerjdeangelis/utl-transpose-pivot-with-just-classification-varaiables-and-no-value-variable
 
     Kurt Bresmer
     https://communities.sas.com/t5/user/viewprofilepage/user-id/11562
